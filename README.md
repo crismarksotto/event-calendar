@@ -1,4 +1,7 @@
 # Project Title
+Event Calendar Widget
+
+# Project Description
 
 Simple js app that fetches data from a spreadsheet via spreadsheet api and load it into the app. You can specify different layout for the event calendar.
 
