@@ -5,6 +5,8 @@ Event Calendar Widget
 
 Simple js app that fetches data from a spreadsheet via spreadsheet api and load it into the app. You can specify different layout for the event calendar.
 
+Spreadsheet sample: https://docs.google.com/spreadsheets/d/1fEgNggTT1KbOPm4CbakbihmAkTQ24ytEj0tOljNFvPM/edit#gid=0
+
 # Features
 
 1. 4 Different Layout: slider, list, grid, featured
